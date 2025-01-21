@@ -1,0 +1,36 @@
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "5"; */
+"5.title" = "Preferences";
+
+/* Class = "NSMenuItem"; title = "No Bookmarks"; ObjectID = "75"; */
+"75.title" = "No Bookmarks";
+
+/* Class = "NSButtonCell"; title = "Clear document changes"; ObjectID = "114"; */
+"114.title" = "Clear document changes";
+
+/* Class = "NSTextFieldCell"; title = "When downloads are done:"; ObjectID = "116"; */
+"116.title" = "When downloads are done:";
+
+/* Class = "NSButtonCell"; title = "Delete robots.txt"; ObjectID = "117"; */
+"117.title" = "Delete robots.txt";
+
+/* Class = "NSTextFieldCell"; title = "Source of bookmarks:"; ObjectID = "120"; */
+"120.title" = "Source of bookmarks:";
+
+/* Class = "NSButtonCell"; title = "Identities…"; ObjectID = "125"; */
+"125.title" = "Identities…";
+
+/* Class = "NSButtonCell"; title = "Settings…"; ObjectID = "M4I-1c-pd2"; */
+"M4I-1c-pd2.title" = "Settings…";
+
+/* Class = "NSButtonCell"; title = "Show all"; ObjectID = "a7q-ge-rqp"; */
+"a7q-ge-rqp.title" = "Show all";
+
+/* Class = "NSTextFieldCell"; title = "When dragging to the URL field:"; ObjectID = "g7c-94-oLn"; */
+"g7c-94-oLn.title" = "When dragging to the URL field:";
+
+/* Class = "NSTextFieldCell"; title = "Warning alerts:"; ObjectID = "vdU-Xz-Wc8"; */
+"vdU-Xz-Wc8.title" = "Warning alerts:";
+
+/* Class = "NSButtonCell"; title = "Drag triggers download"; ObjectID = "xEc-21-54K"; */
+"xEc-21-54K.title" = "Drag triggers download";

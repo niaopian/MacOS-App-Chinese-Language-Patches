@@ -1,0 +1,24 @@
+
+/* Class = "NSWindow"; title = "Browser"; ObjectID = "3"; */
+"3.title" = "Browser";
+
+/* Class = "NSButtonCell"; title = "Download"; ObjectID = "9"; */
+"9.title" = "Download";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "10"; */
+"10.title" = "Close";
+
+/* Class = "NSSegmentedCell"; 11.ibShadowedToolTips[0] = "Back"; ObjectID = "11"; */
+"11.ibShadowedToolTips[0]" = "Back";
+
+/* Class = "NSSegmentedCell"; 11.ibShadowedToolTips[1] = "Forward"; ObjectID = "11"; */
+"11.ibShadowedToolTips[1]" = "Forward";
+
+/* Class = "NSButtonCell"; title = "Download"; ObjectID = "XRq-Og-HR7"; */
+"XRq-Og-HR7.title" = "Download";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Passwords"; ObjectID = "j0D-rw-YSS"; */
+"j0D-rw-YSS.ibShadowedToolTip" = "Passwords";
+
+/* Class = "NSTextFieldCell"; placeholderString = "URL"; ObjectID = "kC9-oR-DYA"; */
+"kC9-oR-DYA.placeholderString" = "URL";

@@ -1,0 +1,216 @@
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "Bring All to Front";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "Minimize";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "SiteSucker"; ObjectID = "56"; */
+"56.title" = "SiteSucker";
+
+/* Class = "NSMenu"; title = "SiteSucker"; ObjectID = "57"; */
+"57.title" = "SiteSucker";
+
+/* Class = "NSMenuItem"; title = "About SiteSucker"; ObjectID = "58"; */
+"58.title" = "About SiteSucker";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "Close";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "File";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
+"82.title" = "New";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; */
+"103.title" = "Help";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "106"; */
+"106.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "SiteSucker Help"; ObjectID = "111"; */
+"111.title" = "SiteSucker Help";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Hide SiteSucker"; ObjectID = "134"; */
+"134.title" = "Hide SiteSucker";
+
+/* Class = "NSMenuItem"; title = "Quit SiteSucker"; ObjectID = "136"; */
+"136.title" = "Quit SiteSucker";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Hide Others";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "157"; */
+"157.title" = "Copy";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "158"; */
+"158.title" = "Undo";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "160"; */
+"160.title" = "Cut";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "163"; */
+"163.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "164"; */
+"164.title" = "Delete";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "169"; */
+"169.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "171"; */
+"171.title" = "Paste";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "172"; */
+"172.title" = "Select All";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; */
+"173.title" = "Redo";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "203"; */
+"203.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Control"; ObjectID = "212"; */
+"212.title" = "Control";
+
+/* Class = "NSMenu"; title = "Control"; ObjectID = "213"; */
+"213.title" = "Control";
+
+/* Class = "NSMenuItem"; title = "Download"; ObjectID = "214"; */
+"214.title" = "Download";
+
+/* Class = "NSMenuItem"; title = "Stop"; ObjectID = "215"; */
+"215.title" = "Stop";
+
+/* Class = "NSMenuItem"; title = "Open File"; ObjectID = "233"; */
+"233.title" = "Open File";
+
+/* Class = "NSMenuItem"; title = "Open Log"; ObjectID = "234"; */
+"234.title" = "Open Log";
+
+/* Class = "NSMenuItem"; title = "Open Destination Folder"; ObjectID = "235"; */
+"235.title" = "Open Destination Folder";
+
+/* Class = "NSMenuItem"; title = "Next"; ObjectID = "250"; */
+"250.title" = "Next";
+
+/* Class = "NSMenuItem"; title = "Pause"; ObjectID = "251"; */
+"251.title" = "Pause";
+
+/* Class = "NSMenuItem"; title = "Stop Adding Files"; ObjectID = "252"; */
+"252.title" = "Stop Adding Files";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "327"; */
+"327.title" = "View";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "328"; */
+"328.title" = "View";
+
+/* Class = "NSMenuItem"; title = "Show Queue"; ObjectID = "329"; */
+"329.title" = "Show Queue";
+
+/* Class = "NSMenuItem"; title = "Hide Toolbar"; ObjectID = "332"; */
+"332.title" = "Hide Toolbar";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "333"; */
+"333.title" = "Customize Toolbar…";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "351"; */
+"351.title" = "Open…";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "354"; */
+"354.title" = "Save";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "355"; */
+"355.title" = "Save As…";
+
+/* Class = "NSMenuItem"; title = "Add to Queue"; ObjectID = "367"; */
+"367.title" = "Add to Queue";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "370"; */
+"370.title" = "Preferences…";
+
+/* Class = "NSMenuItem"; title = "Settings"; ObjectID = "388"; */
+"388.title" = "Settings";
+
+/* Class = "NSMenu"; title = "Settings"; ObjectID = "389"; */
+"389.title" = "Settings";
+
+/* Class = "NSMenuItem"; title = "Edit Settings…"; ObjectID = "390"; */
+"390.title" = "Edit Settings…";
+
+/* Class = "NSMenuItem"; title = "History"; ObjectID = "411"; */
+"411.title" = "History";
+
+/* Class = "NSMenu"; title = "History"; ObjectID = "412"; */
+"412.title" = "History";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "413"; */
+"413.title" = "Clear Menu";
+
+/* Class = "NSMenuItem"; title = "Save As User Defaults"; ObjectID = "440"; */
+"440.title" = "Save As User Defaults";
+
+/* Class = "NSMenuItem"; title = "Open Log…"; ObjectID = "459"; */
+"459.title" = "Open Log…";
+
+/* Class = "NSMenuItem"; title = "Open File…"; ObjectID = "467"; */
+"467.title" = "Open File…";
+
+/* Class = "NSMenuItem"; title = "Factory Defaults"; ObjectID = "481"; */
+"481.title" = "Factory Defaults";
+
+/* Class = "NSMenuItem"; title = "User Defaults"; ObjectID = "482"; */
+"482.title" = "User Defaults";
+
+/* Class = "NSMenuItem"; title = "Reset Status"; ObjectID = "491"; */
+"491.title" = "Reset Status";
+
+/* Class = "NSMenuItem"; title = "Open Browser"; ObjectID = "506"; */
+"506.title" = "Open Browser";
+
+/* Class = "NSMenuItem"; title = "Add Error Keyword to File…"; ObjectID = "8qQ-3a-Bzk"; */
+"8qQ-3a-Bzk.title" = "Add Error Keyword to File…";
+
+/* Class = "NSMenuItem"; title = "Stop and Create PDF"; ObjectID = "EYv-Xu-wqq"; */
+"EYv-Xu-wqq.title" = "Stop and Create PDF";
+
+/* Class = "NSMenuItem"; title = "Previous Pane"; ObjectID = "G9t-mk-Gvo"; */
+"G9t-mk-Gvo.title" = "Previous Pane";
+
+/* Class = "NSMenuItem"; title = "Next Pane"; ObjectID = "Onn-oo-WEG"; */
+"Onn-oo-WEG.title" = "Next Pane";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "SMe-oG-Mdn"; */
+"SMe-oG-Mdn.title" = "Enter Full Screen";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "cDS-1P-MCk"; */
+"cDS-1P-MCk.title" = "None";
+
+/* Class = "NSMenuItem"; title = "Open Downloads"; ObjectID = "eWS-I2-Tbl"; */
+"eWS-I2-Tbl.title" = "Open Downloads";
+
+/* Class = "NSMenuItem"; title = "Suggested Settings…"; ObjectID = "erZ-ja-5Ua"; */
+"erZ-ja-5Ua.title" = "Suggested Settings…";
+
+/* Class = "NSMenu"; title = "Open Downloads"; ObjectID = "lGz-hd-LbK"; */
+"lGz-hd-LbK.title" = "Open Downloads";

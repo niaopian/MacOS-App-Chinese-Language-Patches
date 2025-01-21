@@ -1,0 +1,120 @@
+
+/* Class = "NSToolbarItem"; label = "Settings"; ObjectID = "0Nt-dE-F5d"; */
+"0Nt-dE-F5d.label" = "Settings";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Settings"; ObjectID = "0Nt-dE-F5d"; */
+"0Nt-dE-F5d.paletteLabel" = "Settings";
+
+/* Class = "NSToolbarItem"; toolTip = "Settings"; ObjectID = "0Nt-dE-F5d"; */
+"0Nt-dE-F5d.toolTip" = "Settings";
+
+/* Class = "NSToolbarItem"; label = "Log"; ObjectID = "8y6-7U-HEs"; */
+"8y6-7U-HEs.label" = "Log";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Open Log"; ObjectID = "8y6-7U-HEs"; */
+"8y6-7U-HEs.paletteLabel" = "Open Log";
+
+/* Class = "NSToolbarItem"; toolTip = "Open Log"; ObjectID = "8y6-7U-HEs"; */
+"8y6-7U-HEs.toolTip" = "Open Log";
+
+/* Class = "NSToolbarItem"; label = "Folder"; ObjectID = "AOA-14-Qzc"; */
+"AOA-14-Qzc.label" = "Folder";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Open Destination Folder"; ObjectID = "AOA-14-Qzc"; */
+"AOA-14-Qzc.paletteLabel" = "Open Destination Folder";
+
+/* Class = "NSToolbarItem"; toolTip = "Open Destination Folder"; ObjectID = "AOA-14-Qzc"; */
+"AOA-14-Qzc.toolTip" = "Open Destination Folder";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL or Path"; ObjectID = "CWU-E3-C9f"; */
+"CWU-E3-C9f.headerCell.title" = "URL or Path";
+
+/* Class = "NSTextFieldCell"; placeholderString = "URL"; ObjectID = "HHb-rW-NL1"; */
+"HHb-rW-NL1.placeholderString" = "URL";
+
+/* Class = "NSToolbarItem"; label = "Pause"; ObjectID = "HKi-S0-MpK"; */
+"HKi-S0-MpK.label" = "Pause";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Pause/Resume"; ObjectID = "HKi-S0-MpK"; */
+"HKi-S0-MpK.paletteLabel" = "Pause/Resume";
+
+/* Class = "NSToolbarItem"; toolTip = "Pause"; ObjectID = "HKi-S0-MpK"; */
+"HKi-S0-MpK.toolTip" = "Pause";
+
+/* Class = "NSToolbarItem"; label = "History"; ObjectID = "M2K-ck-HSG"; */
+"M2K-ck-HSG.label" = "History";
+
+/* Class = "NSToolbarItem"; paletteLabel = "History"; ObjectID = "M2K-ck-HSG"; */
+"M2K-ck-HSG.paletteLabel" = "History";
+
+/* Class = "NSToolbarItem"; toolTip = "History"; ObjectID = "M2K-ck-HSG"; */
+"M2K-ck-HSG.toolTip" = "History";
+
+/* Class = "NSToolbarItem"; label = "Stop"; ObjectID = "N2c-II-ups"; */
+"N2c-II-ups.label" = "Stop";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Stop"; ObjectID = "N2c-II-ups"; */
+"N2c-II-ups.paletteLabel" = "Stop";
+
+/* Class = "NSToolbarItem"; toolTip = "Stop"; ObjectID = "N2c-II-ups"; */
+"N2c-II-ups.toolTip" = "Stop";
+
+/* Class = "NSTableColumn"; headerCell.title = "Files Downloaded"; ObjectID = "OaK-eq-DDb"; */
+"OaK-eq-DDb.headerCell.title" = "Files Downloaded";
+
+/* Class = "NSTableColumn"; headerCell.title = "Errors"; ObjectID = "Uyq-wC-cPU"; */
+"Uyq-wC-cPU.headerCell.title" = "Errors";
+
+/* Class = "NSToolbarItem"; label = "Next"; ObjectID = "VNo-6t-b6E"; */
+"VNo-6t-b6E.label" = "Next";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Next"; ObjectID = "VNo-6t-b6E"; */
+"VNo-6t-b6E.paletteLabel" = "Next";
+
+/* Class = "NSToolbarItem"; toolTip = "Next"; ObjectID = "VNo-6t-b6E"; */
+"VNo-6t-b6E.toolTip" = "Next";
+
+/* Class = "NSToolbarItem"; label = "File"; ObjectID = "ZLI-QU-fRE"; */
+"ZLI-QU-fRE.label" = "File";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Open File"; ObjectID = "ZLI-QU-fRE"; */
+"ZLI-QU-fRE.paletteLabel" = "Open File";
+
+/* Class = "NSToolbarItem"; toolTip = "Open File"; ObjectID = "ZLI-QU-fRE"; */
+"ZLI-QU-fRE.toolTip" = "Open File";
+
+/* Class = "NSTableColumn"; headerCell.title = "Progress"; ObjectID = "gVl-op-Cjr"; */
+"gVl-op-Cjr.headerCell.title" = "Progress";
+
+/* Class = "NSToolbarItem"; label = "Download"; ObjectID = "h53-jW-VwD"; */
+"h53-jW-VwD.label" = "Download";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Download"; ObjectID = "h53-jW-VwD"; */
+"h53-jW-VwD.paletteLabel" = "Download";
+
+/* Class = "NSToolbarItem"; toolTip = "Download"; ObjectID = "h53-jW-VwD"; */
+"h53-jW-VwD.toolTip" = "Download";
+
+/* Class = "NSTableColumn"; headerCell.title = "Skip"; ObjectID = "n47-wD-TpL"; */
+"n47-wD-TpL.headerCell.title" = "Skip";
+
+/* Class = "NSTableColumn"; headerToolTip = "Skip"; ObjectID = "n47-wD-TpL"; */
+"n47-wD-TpL.headerToolTip" = "";
+
+/* Class = "NSTableColumn"; headerCell.title = "Level"; ObjectID = "ogb-jb-UE0"; */
+"ogb-jb-UE0.headerCell.title" = "Level";
+
+/* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "pJG-8K-SVe"; */
+"pJG-8K-SVe.headerCell.title" = "Status";
+
+/* Class = "NSTableColumn"; headerCell.title = "Files Remaining"; ObjectID = "qR8-1V-60l"; */
+"qR8-1V-60l.headerCell.title" = "Files Remaining";
+
+/* Class = "NSToolbarItem"; label = "Queue"; ObjectID = "qYc-xU-1G8"; */
+"qYc-xU-1G8.label" = "Queue";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Queue"; ObjectID = "qYc-xU-1G8"; */
+"qYc-xU-1G8.paletteLabel" = "Queue";
+
+/* Class = "NSToolbarItem"; toolTip = "Queue"; ObjectID = "qYc-xU-1G8"; */
+"qYc-xU-1G8.toolTip" = "Queue";

@@ -1,0 +1,27 @@
+
+/* Class = "NSWindow"; title = "Log In"; ObjectID = "5"; */
+"5.title" = "Log In";
+
+/* Class = "NSTextFieldCell"; title = "To view this page, you must log in to this area on www.server.com:"; ObjectID = "100010"; */
+"100010.title" = "To view this page, you must log in to this area on www.server.com:";
+
+/* Class = "NSTextFieldCell"; title = "Your password will be sent unencrypted."; ObjectID = "100011"; */
+"100011.title" = "Your password will be sent unencrypted.";
+
+/* Class = "NSButtonCell"; title = "Log In"; ObjectID = "100012"; */
+"100012.title" = "Log In";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100013"; */
+"100013.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "100016"; */
+"100016.title" = "Name:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "100017"; */
+"100017.title" = "Password:";
+
+/* Class = "NSButtonCell"; title = "Remember this password in my keychain"; ObjectID = "100039"; */
+"100039.title" = "Remember this password in my keychain";
+
+/* Class = "NSButtonCell"; title = "Log In"; ObjectID = "IRy-sP-2Ug"; */
+"IRy-sP-2Ug.title" = "Log In";

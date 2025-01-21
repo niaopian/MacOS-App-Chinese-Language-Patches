@@ -1,0 +1,18 @@
+
+/* Class = "NSWindow"; title = "Settings Manager"; ObjectID = "1"; */
+"1.title" = "Settings Manager";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "8"; */
+"8.headerCell.title" = "Name";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "baV-XA-3Jy"; */
+"baV-XA-3Jy.title" = "Done";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "ems-wj-Wfu"; */
+"ems-wj-Wfu.title" = "Done";
+
+/* Class = "NSSegmentedCell"; f6c-wT-vyh.ibShadowedToolTips[0] = "Add"; ObjectID = "f6c-wT-vyh"; */
+"f6c-wT-vyh.ibShadowedToolTips[0]" = "Add";
+
+/* Class = "NSSegmentedCell"; f6c-wT-vyh.ibShadowedToolTips[1] = "Delete"; ObjectID = "f6c-wT-vyh"; */
+"f6c-wT-vyh.ibShadowedToolTips[1]" = "Delete";

@@ -1,0 +1,27 @@
+
+/* Class = "NSButtonCell"; title = "Turn on ‘Download Using Web Views’"; ObjectID = "SeF-an-NsN"; */
+"SeF-an-NsN.title" = "Turn on ‘Download Using Web Views’";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "VBY-jK-us8"; */
+"VBY-jK-us8.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Apply archive.org Settings"; ObjectID = "VyF-nl-dbf"; */
+"VyF-nl-dbf.title" = "Apply archive.org Settings";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "WN7-fw-n2t"; */
+"WN7-fw-n2t.title" = "Apply";
+
+/* Class = "NSButtonCell"; title = "Turn on ‘Include Supporting Files’"; ObjectID = "bCg-8g-dPF"; */
+"bCg-8g-dPF.title" = "Turn on ‘Include Supporting Files’";
+
+/* Class = "NSButtonCell"; title = "Turn on ‘Ignore Robot Exclusions’"; ObjectID = "jPm-S3-BOs"; */
+"jPm-S3-BOs.title" = "Turn on ‘Ignore Robot Exclusions’";
+
+/* Class = "NSButtonCell"; title = "Turn on ‘Ignore rel=\"nofollow\"’"; ObjectID = "oQi-gn-w4i"; */
+"oQi-gn-w4i.title" = "Turn on ‘Ignore rel=\"nofollow\"’";
+
+/* Class = "NSButtonCell"; title = "Set ‘Identity’ to ‘Web View’"; ObjectID = "ywj-bS-i5K"; */
+"ywj-bS-i5K.title" = "Set ‘Identity’ to ‘Web View’";
+
+/* Class = "NSButtonCell"; title = "Turn on ‘text/html’"; ObjectID = "zig-k0-nuX"; */
+"zig-k0-nuX.title" = "Turn on ‘text/html’";

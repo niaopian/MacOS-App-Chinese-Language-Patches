@@ -1,0 +1,474 @@
+
+/* Class = "NSWindow"; title = "Settings"; ObjectID = "5"; */
+"5.title" = "Settings";
+
+/* Class = "NSMenuItem"; title = "Allow All File Types"; ObjectID = "593"; */
+"593.title" = "Allow All File Types";
+
+/* Class = "NSMenuItem"; title = "Allow Specified File Types"; ObjectID = "594"; */
+"594.title" = "Allow Specified File Types";
+
+/* Class = "NSMenuItem"; title = "Disallow Specified File Types"; ObjectID = "595"; */
+"595.title" = "Disallow Specified File Types";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "899"; */
+"899.label" = "Options";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "1731"; */
+"1731.title" = "None";
+
+/* Class = "NSMenuItem"; title = "Delete After Analysis"; ObjectID = "1732"; */
+"1732.title" = "Delete After Analysis";
+
+/* Class = "NSMenuItem"; title = "Localize"; ObjectID = "1733"; */
+"1733.title" = "Localize";
+
+/* Class = "NSMenuItem"; title = "With Newer"; ObjectID = "1737"; */
+"1737.title" = "With Newer";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "1738"; */
+"1738.title" = "Always";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "1739"; */
+"1739.title" = "Never";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "1916"; */
+"1916.title" = "Apply";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1917"; */
+"1917.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "Destination Folder:"; ObjectID = "1921"; */
+"1921.title" = "Destination Folder:";
+
+/* Class = "NSTextFieldCell"; title = "File Replacement:"; ObjectID = "1923"; */
+"1923.title" = "File Replacement:";
+
+/* Class = "NSTextFieldCell"; title = "File Modification:"; ObjectID = "1926"; */
+"1926.title" = "File Modification:";
+
+/* Class = "NSButtonCell"; title = "Ignore Robot Exclusions"; ObjectID = "1928"; */
+"1928.title" = "Ignore Robot Exclusions";
+
+/* Class = "NSButtonCell"; title = "Images"; ObjectID = "1933"; */
+"1933.title" = "Images";
+
+/* Class = "NSButtonCell"; title = "Audio Files"; ObjectID = "1934"; */
+"1934.title" = "Audio Files";
+
+/* Class = "NSButtonCell"; title = "Archives"; ObjectID = "1936"; */
+"1936.title" = "Archives";
+
+/* Class = "NSButtonCell"; title = "Custom Types"; ObjectID = "1937"; */
+"1937.title" = "Custom Types";
+
+/* Class = "NSButtonCell"; title = "Maximum File Size:"; ObjectID = "1963"; */
+"1963.title" = "Maximum File Size:";
+
+/* Class = "NSButtonCell"; title = "Maximum Number of Levels:"; ObjectID = "1964"; */
+"1964.title" = "Maximum Number of Levels:";
+
+/* Class = "NSButtonCell"; title = "Maximum Number of Files:"; ObjectID = "1968"; */
+"1968.title" = "Maximum Number of Files:";
+
+/* Class = "NSButtonCell"; title = "Minimum File Size:"; ObjectID = "1969"; */
+"1969.title" = "Minimum File Size:";
+
+/* Class = "NSTextFieldCell"; title = "KB"; ObjectID = "1971"; */
+"1971.title" = "KB";
+
+/* Class = "NSTextFieldCell"; title = "KB"; ObjectID = "1972"; */
+"1972.title" = "KB";
+
+/* Class = "NSButtonCell"; title = "Minimum Image Size:"; ObjectID = "1973"; */
+"1973.title" = "Minimum Image Size:";
+
+/* Class = "NSTextFieldCell"; title = "% Screen Area"; ObjectID = "1975"; */
+"1975.title" = "% Screen Area";
+
+/* Class = "NSButtonCell"; title = "Log Warnings"; ObjectID = "1976"; */
+"1976.title" = "Log Warnings";
+
+/* Class = "NSButtonCell"; title = "Log Errors"; ObjectID = "1978"; */
+"1978.title" = "Log Errors";
+
+/* Class = "NSButtonCell"; title = "Log Download History"; ObjectID = "1979"; */
+"1979.title" = "Log Download History";
+
+/* Class = "NSButtonCell"; title = "Log Final Status"; ObjectID = "1980"; */
+"1980.title" = "Log Final Status";
+
+/* Class = "NSTabViewItem"; label = "Filter"; ObjectID = "2013"; */
+"2013.label" = "Filter";
+
+/* Class = "NSTabViewItem"; label = "Custom Types"; ObjectID = "2014"; */
+"2014.label" = "Custom Types";
+
+/* Class = "NSTabViewItem"; label = "HTML Types"; ObjectID = "2017"; */
+"2017.label" = "HTML Types";
+
+/* Class = "NSTableColumn"; headerCell.title = "On"; ObjectID = "2025"; */
+"2025.headerCell.title" = "On";
+
+/* Class = "NSTableColumn"; headerCell.title = "Media Type"; ObjectID = "2026"; */
+"2026.headerCell.title" = "Media Type";
+
+/* Class = "NSTableColumn"; headerCell.title = "Media Type"; ObjectID = "2057"; */
+"2057.headerCell.title" = "Media Type";
+
+/* Class = "NSTableColumn"; headerCell.title = "On"; ObjectID = "2058"; */
+"2058.headerCell.title" = "On";
+
+/* Class = "NSTextFieldCell"; title = "as specified under the Custom Types tab"; ObjectID = "2080"; */
+"2080.title" = "as specified under the Custom Types tab";
+
+/* Class = "NSButtonCell"; title = "Log Media Types"; ObjectID = "2088"; */
+"2088.title" = "Log Media Types";
+
+/* Class = "NSButtonCell"; title = "Ask For Destination"; ObjectID = "2091"; */
+"2091.title" = "Ask For Destination";
+
+/* Class = "NSMenuItem"; title = "Set Destination Folder…"; ObjectID = "2113"; */
+"2113.title" = "Set Destination Folder…";
+
+/* Class = "NSMenuItem"; title = "Folder"; ObjectID = "2114"; */
+"2114.title" = "Folder";
+
+/* Class = "NSSegmentedCell"; 1sg-hf-knQ.ibShadowedToolTips[0] = "Add"; ObjectID = "1sg-hf-knQ"; */
+"1sg-hf-knQ.ibShadowedToolTips[0]" = "Add";
+
+/* Class = "NSSegmentedCell"; 1sg-hf-knQ.ibShadowedToolTips[1] = "Delete"; ObjectID = "1sg-hf-knQ"; */
+"1sg-hf-knQ.ibShadowedToolTips[1]" = "Delete";
+
+/* Class = "NSTableColumn"; headerCell.title = "Substitution Template"; ObjectID = "2Ix-fc-NKY"; */
+"2Ix-fc-NKY.headerCell.title" = "Substitution Template";
+
+/* Class = "NSTextFieldCell"; title = "Enter regular expressions"; ObjectID = "2nz-c0-741"; */
+"2nz-c0-741.title" = "Enter regular expressions";
+
+/* Class = "NSButtonCell"; title = "Include Supporting Files"; ObjectID = "2rB-wp-Aih"; */
+"2rB-wp-Aih.title" = "Include Supporting Files";
+
+/* Class = "NSMenuItem"; title = "iPad (9.7”)"; ObjectID = "3CQ-FX-K6b"; */
+"3CQ-FX-K6b.title" = "iPad (9.7”)";
+
+/* Class = "NSTextFieldCell"; title = "Enter regular expressions"; ObjectID = "3fc-Hd-zRS"; */
+"3fc-Hd-zRS.title" = "Enter regular expressions";
+
+/* Class = "NSTextFieldCell"; title = "Delay (seconds):"; ObjectID = "3g9-bT-150"; */
+"3g9-bT-150.title" = "Delay (seconds):";
+
+/* Class = "NSButtonCell"; title = "Open Scripts Folder"; ObjectID = "3nm-iB-0W8"; */
+"3nm-iB-0W8.title" = "Open Scripts Folder";
+
+/* Class = "NSMenuItem"; title = "iPad Pro (10.5”)"; ObjectID = "4XT-vU-J3o"; */
+"4XT-vU-J3o.title" = "iPad Pro (10.5”)";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "5f7-Qc-6mK"; */
+"5f7-Qc-6mK.title" = "seconds";
+
+/* Class = "NSMenuItem"; title = "Screen Size"; ObjectID = "5gZ-FE-L4B"; */
+"5gZ-FE-L4B.title" = "Screen Size";
+
+/* Class = "NSTextFieldCell"; title = "URL Constraint:"; ObjectID = "5mI-Cf-TzY"; */
+"5mI-Cf-TzY.title" = "URL Constraint:";
+
+/* Class = "NSMenuItem"; title = "iPad (9.7”)"; ObjectID = "6d2-vG-Igb"; */
+"6d2-vG-Igb.title" = "iPad (9.7”)";
+
+/* Class = "NSMenuItem"; title = "US Letter"; ObjectID = "7xZ-iF-Kfd"; */
+"7xZ-iF-Kfd.title" = "US Letter";
+
+/* Class = "NSMenuItem"; title = "Substitute Early"; ObjectID = "8jv-68-mHc"; */
+"8jv-68-mHc.title" = "Substitute Early";
+
+/* Class = "NSButtonCell"; title = "Treat Ambiguous URLs as Folders"; ObjectID = "AIb-IB-sid"; */
+"AIb-IB-sid.title" = "Treat Ambiguous URLs as Folders";
+
+/* Class = "NSSegmentedCell"; BBD-zg-Xdn.ibShadowedToolTips[0] = "Add"; ObjectID = "BBD-zg-Xdn"; */
+"BBD-zg-Xdn.ibShadowedToolTips[0]" = "Add";
+
+/* Class = "NSSegmentedCell"; BBD-zg-Xdn.ibShadowedToolTips[1] = "Delete"; ObjectID = "BBD-zg-Xdn"; */
+"BBD-zg-Xdn.ibShadowedToolTips[1]" = "Delete";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "DgQ-Y5-g5B"; */
+"DgQ-Y5-g5B.title" = "None";
+
+/* Class = "NSButtonCell"; title = "Check All Links"; ObjectID = "E3V-OU-fj8"; */
+"E3V-OU-fj8.title" = "Check All Links";
+
+/* Class = "NSTableColumn"; headerCell.title = "File Path Pattern"; ObjectID = "EO2-ji-zod"; */
+"EO2-ji-zod.headerCell.title" = "File Path Pattern";
+
+/* Class = "NSButtonCell"; title = "Download Using Web Views"; ObjectID = "EPu-jn-j5a"; */
+"EPu-jn-j5a.title" = "Download Using Web Views";
+
+/* Class = "NSMenuItem"; title = "Retry If Found"; ObjectID = "ESp-1d-aRG"; */
+"ESp-1d-aRG.title" = "Retry If Found";
+
+/* Class = "NSTabViewItem"; label = "Replace"; ObjectID = "Etj-5D-ezY"; */
+"Etj-5D-ezY.label" = "Replace";
+
+/* Class = "NSMenuItem"; title = "iPad Pro (10.5”)"; ObjectID = "FSt-9s-VXB"; */
+"FSt-9s-VXB.title" = "iPad Pro (10.5”)";
+
+/* Class = "NSTextFieldCell"; title = "Connections:"; ObjectID = "Gbq-1j-uTz"; */
+"Gbq-1j-uTz.title" = "Connections:";
+
+/* Class = "NSMenuItem"; title = "A6"; ObjectID = "Hnj-T6-IIz"; */
+"Hnj-T6-IIz.title" = "A6";
+
+/* Class = "NSTextFieldCell"; title = "Enter absolute URLs or regular expression patterns"; ObjectID = "HuN-zz-Ug0"; */
+"HuN-zz-Ug0.title" = "Enter absolute URLs or regular expression patterns";
+
+/* Class = "NSMenuItem"; title = "Substitute Late"; ObjectID = "ImJ-yL-jb5"; */
+"ImJ-yL-jb5.title" = "Substitute Late";
+
+/* Class = "NSTabViewItem"; label = "Include"; ObjectID = "Is9-0P-hX8"; */
+"Is9-0P-hX8.label" = "Include";
+
+/* Class = "NSTableColumn"; headerCell.title = "Regex"; ObjectID = "IzC-7h-gfV"; */
+"IzC-7h-gfV.headerCell.title" = "Regex";
+
+/* Class = "NSSegmentedCell"; JAP-Mk-X6O.ibShadowedToolTips[0] = "Add"; ObjectID = "JAP-Mk-X6O"; */
+"JAP-Mk-X6O.ibShadowedToolTips[0]" = "Add";
+
+/* Class = "NSSegmentedCell"; JAP-Mk-X6O.ibShadowedToolTips[1] = "Delete"; ObjectID = "JAP-Mk-X6O"; */
+"JAP-Mk-X6O.ibShadowedToolTips[1]" = "Delete";
+
+/* Class = "NSMenuItem"; title = "A4"; ObjectID = "JFY-30-6be"; */
+"JFY-30-6be.title" = "A4";
+
+/* Class = "NSMenuItem"; title = "Exclude URL"; ObjectID = "Jyo-uc-Gmg"; */
+"Jyo-uc-Gmg.title" = "Exclude URL";
+
+/* Class = "NSTextFieldCell"; title = "Enter regular expressions"; ObjectID = "KCc-Pc-YcM"; */
+"KCc-Pc-YcM.title" = "Enter regular expressions";
+
+/* Class = "NSMenuItem"; title = "Display When Necessary"; ObjectID = "LXb-F4-W9Z"; */
+"LXb-F4-W9Z.title" = "Display When Necessary";
+
+/* Class = "NSMenuItem"; title = "SiteSucker"; ObjectID = "M2N-vK-4C7"; */
+"M2N-vK-4C7.title" = "SiteSucker";
+
+/* Class = "NSMenuItem"; title = "iPad Pro (12.9”)"; ObjectID = "Ob3-Eo-HG2"; */
+"Ob3-Eo-HG2.title" = "iPad Pro (12.9”)";
+
+/* Class = "NSButtonCell"; title = "Ignore rel=\"nofollow\""; ObjectID = "PfT-Je-ceC"; */
+"PfT-Je-ceC.title" = "Ignore rel=\"nofollow\"";
+
+/* Class = "NSMenuItem"; title = "A5"; ObjectID = "Q4C-LN-Sbk"; */
+"Q4C-LN-Sbk.title" = "A5";
+
+/* Class = "NSMenuItem"; title = "Never Display"; ObjectID = "QQI-fh-siW"; */
+"QQI-fh-siW.title" = "Never Display";
+
+/* Class = "NSTabViewItem"; label = "Replace"; ObjectID = "Rcl-i3-o4C"; */
+"Rcl-i3-o4C.label" = "Replace";
+
+/* Class = "NSMenuItem"; title = "Executive"; ObjectID = "SWx-bt-izE"; */
+"SWx-bt-izE.title" = "Executive";
+
+/* Class = "NSTextFieldCell"; title = "Post-analysis Script:"; ObjectID = "TR7-1X-ZHz"; */
+"TR7-1X-ZHz.title" = "Post-analysis Script:";
+
+/* Class = "NSTextFieldCell"; title = "Attempts:"; ObjectID = "U9z-gb-pbN"; */
+"U9z-gb-pbN.title" = "Attempts:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Custom Data Attribute Name"; ObjectID = "UMG-MQ-yeX"; */
+"UMG-MQ-yeX.headerCell.title" = "Custom Data Attribute Name";
+
+/* Class = "NSTextFieldCell"; title = "Text Encoding:"; ObjectID = "UhP-Ge-Hp7"; */
+"UhP-Ge-Hp7.title" = "Text Encoding:";
+
+/* Class = "NSTextFieldCell"; title = "Web View Size:"; ObjectID = "V4q-mm-jf4"; */
+"V4q-mm-jf4.title" = "Web View Size:";
+
+/* Class = "NSMenuItem"; title = "Host"; ObjectID = "VH1-sL-mC0"; */
+"VH1-sL-mC0.title" = "Host";
+
+/* Class = "NSSegmentedCell"; VKJ-wI-Vu4.ibShadowedToolTips[0] = "Add"; ObjectID = "VKJ-wI-Vu4"; */
+"VKJ-wI-Vu4.ibShadowedToolTips[0]" = "Add";
+
+/* Class = "NSSegmentedCell"; VKJ-wI-Vu4.ibShadowedToolTips[1] = "Delete"; ObjectID = "VKJ-wI-Vu4"; */
+"VKJ-wI-Vu4.ibShadowedToolTips[1]" = "Delete";
+
+/* Class = "NSTextFieldCell"; title = "Delay Range:"; ObjectID = "W5n-ec-zW9"; */
+"W5n-ec-zW9.title" = "Delay Range:";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "WKA-O5-UnE"; */
+"WKA-O5-UnE.title" = "None";
+
+/* Class = "NSTableColumn"; headerCell.title = "Media Type"; ObjectID = "XS0-yE-eEf"; */
+"XS0-yE-eEf.headerCell.title" = "Media Type";
+
+/* Class = "NSButtonCell"; title = "Always Download HTML and CSS"; ObjectID = "Xqq-Ji-rzF"; */
+"Xqq-Ji-rzF.title" = "Always Download HTML and CSS";
+
+/* Class = "NSMenuItem"; title = "URL Settings"; ObjectID = "YeH-b5-3Wb"; */
+"YeH-b5-3Wb.title" = "URL Settings";
+
+/* Class = "NSTextFieldCell"; title = "Pre-analysis Script:"; ObjectID = "Znb-xG-3bW"; */
+"Znb-xG-3bW.title" = "Pre-analysis Script:";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL or Pattern"; ObjectID = "aaK-Yh-pJj"; */
+"aaK-Yh-pJj.headerCell.title" = "URL or Pattern";
+
+/* Class = "NSMenuItem"; title = "Include URL"; ObjectID = "ac6-Bn-3qq"; */
+"ac6-Bn-3qq.title" = "Include URL";
+
+/* Class = "NSTextFieldCell"; title = "Enter absolute URLs or regular expression patterns"; ObjectID = "b8k-Sm-26r"; */
+"b8k-Sm-26r.title" = "Enter absolute URLs or regular expression patterns";
+
+/* Class = "NSMenuItem"; title = "Host + 1"; ObjectID = "bUj-Qq-8JR"; */
+"bUj-Qq-8JR.title" = "Host + 1";
+
+/* Class = "NSButtonCell"; title = "Download Error Pages"; ObjectID = "bVf-Gq-sz5"; */
+"bVf-Gq-sz5.title" = "Download Error Pages";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL Pattern"; ObjectID = "dJa-ES-tGF"; */
+"dJa-ES-tGF.headerCell.title" = "URL Pattern";
+
+/* Class = "NSMenuItem"; title = "Directory"; ObjectID = "dUJ-y8-brZ"; */
+"dUJ-y8-brZ.title" = "Directory";
+
+/* Class = "NSTextFieldCell"; title = "Login Dialog:"; ObjectID = "dyj-p9-pFV"; */
+"dyj-p9-pFV.title" = "Login Dialog:";
+
+/* Class = "NSMenuItem"; title = "US Letter"; ObjectID = "eKj-V9-IlB"; */
+"eKj-V9-IlB.title" = "US Letter";
+
+/* Class = "NSTableColumn"; headerCell.title = "Regex"; ObjectID = "eqb-fp-uMT"; */
+"eqb-fp-uMT.headerCell.title" = "Regex";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "fZk-HO-itZ"; */
+"fZk-HO-itZ.title" = "None";
+
+/* Class = "NSTableColumn"; headerCell.title = "Search Pattern"; ObjectID = "fvf-EH-gdy"; */
+"fvf-EH-gdy.headerCell.title" = "Search Pattern";
+
+/* Class = "NSTextFieldCell"; title = "Enter data attributes that should be scanned for URLs"; ObjectID = "gEg-Hx-0t6"; */
+"gEg-Hx-0t6.title" = "Enter data attributes that should be scanned for URLs";
+
+/* Class = "NSButtonCell"; title = "Scan Comments for URLs"; ObjectID = "gXP-pE-4se"; */
+"gXP-pE-4se.title" = "Scan Comments for URLs";
+
+/* Class = "NSMenuItem"; title = "US Legal"; ObjectID = "hCf-rA-P5Z"; */
+"hCf-rA-P5Z.title" = "US Legal";
+
+/* Class = "NSSegmentedCell"; haz-0q-681.ibShadowedToolTips[0] = "Add"; ObjectID = "haz-0q-681"; */
+"haz-0q-681.ibShadowedToolTips[0]" = "Add";
+
+/* Class = "NSSegmentedCell"; haz-0q-681.ibShadowedToolTips[1] = "Delete"; ObjectID = "haz-0q-681"; */
+"haz-0q-681.ibShadowedToolTips[1]" = "Delete";
+
+/* Class = "NSMenuItem"; title = "Extract URL"; ObjectID = "iDD-vY-eaC"; */
+"iDD-vY-eaC.title" = "Extract URL";
+
+/* Class = "NSButtonCell"; title = "Create PDF"; ObjectID = "iuy-zO-zsQ"; */
+"iuy-zO-zsQ.title" = "Create PDF";
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "kt7-bS-qj7"; */
+"kt7-bS-qj7.headerCell.title" = "Action";
+
+/* Class = "NSSegmentedCell"; l1p-ni-ZWH.ibShadowedToolTips[0] = "Add"; ObjectID = "l1p-ni-ZWH"; */
+"l1p-ni-ZWH.ibShadowedToolTips[0]" = "Add";
+
+/* Class = "NSSegmentedCell"; l1p-ni-ZWH.ibShadowedToolTips[1] = "Delete"; ObjectID = "l1p-ni-ZWH"; */
+"l1p-ni-ZWH.ibShadowedToolTips[1]" = "Delete";
+
+/* Class = "NSTabViewItem"; label = "Attributes"; ObjectID = "lqe-Q8-Nhc"; */
+"lqe-Q8-Nhc.label" = "Attributes";
+
+/* Class = "NSMenuItem"; title = "A6"; ObjectID = "ltL-3w-i2N"; */
+"ltL-3w-i2N.title" = "A6";
+
+/* Class = "NSButtonCell"; title = "Download Links in PDFs"; ObjectID = "mgR-mZ-Gmu"; */
+"mgR-mZ-Gmu.title" = "Download Links in PDFs";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "na5-id-MHS"; */
+"na5-id-MHS.label" = "Options";
+
+/* Class = "NSTextFieldCell"; title = "Timeout (seconds):"; ObjectID = "nj7-Vo-Pak"; */
+"nj7-Vo-Pak.title" = "Timeout (seconds):";
+
+/* Class = "NSTextFieldCell"; title = "Preferred Resolution:"; ObjectID = "oAY-up-QhA"; */
+"oAY-up-QhA.title" = "Preferred Resolution:";
+
+/* Class = "NSTabViewItem"; label = "Patterns"; ObjectID = "pLq-mT-2fs"; */
+"pLq-mT-2fs.label" = "Patterns";
+
+/* Class = "NSTabViewItem"; label = "Exclude"; ObjectID = "qWe-As-2FT"; */
+"qWe-As-2FT.label" = "Exclude";
+
+/* Class = "NSSegmentedCell"; rzt-SV-ZVP.ibShadowedToolTips[0] = "Add"; ObjectID = "rzt-SV-ZVP"; */
+"rzt-SV-ZVP.ibShadowedToolTips[0]" = "Add";
+
+/* Class = "NSSegmentedCell"; rzt-SV-ZVP.ibShadowedToolTips[1] = "Delete"; ObjectID = "rzt-SV-ZVP"; */
+"rzt-SV-ZVP.ibShadowedToolTips[1]" = "Delete";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL or Pattern"; ObjectID = "sKY-Wm-gFy"; */
+"sKY-Wm-gFy.headerCell.title" = "URL or Pattern";
+
+/* Class = "NSButtonCell"; title = "Video Files"; ObjectID = "t5G-q4-Ek4"; */
+"t5G-q4-Ek4.title" = "Video Files";
+
+/* Class = "NSButtonCell"; title = "Replace Special Characters with ‘_’"; ObjectID = "tjX-co-5ya"; */
+"tjX-co-5ya.title" = "Replace Special Characters with ‘_’";
+
+/* Class = "NSSegmentedCell"; tnm-Z2-stG.ibShadowedToolTips[0] = "Add"; ObjectID = "tnm-Z2-stG"; */
+"tnm-Z2-stG.ibShadowedToolTips[0]" = "Add";
+
+/* Class = "NSSegmentedCell"; tnm-Z2-stG.ibShadowedToolTips[1] = "Delete"; ObjectID = "tnm-Z2-stG"; */
+"tnm-Z2-stG.ibShadowedToolTips[1]" = "Delete";
+
+/* Class = "NSMenuItem"; title = "Subdomains"; ObjectID = "tvE-fB-1j7"; */
+"tvE-fB-1j7.title" = "Subdomains";
+
+/* Class = "NSMenuItem"; title = "A5"; ObjectID = "ty4-9F-Gcg"; */
+"ty4-9F-Gcg.title" = "A5";
+
+/* Class = "NSMenuItem"; title = "A4"; ObjectID = "uW1-Bn-aNb"; */
+"uW1-Bn-aNb.title" = "A4";
+
+/* Class = "NSMenuItem"; title = "Always Display"; ObjectID = "ux5-4f-EXO"; */
+"ux5-4f-EXO.title" = "Always Display";
+
+/* Class = "NSMenuItem"; title = "Highest"; ObjectID = "uxJ-eM-M3F"; */
+"uxJ-eM-M3F.title" = "Highest";
+
+/* Class = "NSTextFieldCell"; title = "Identity:"; ObjectID = "vdR-jD-Te0"; */
+"vdR-jD-Te0.title" = "Identity:";
+
+/* Class = "NSButtonCell"; title = "Save As User Defaults"; ObjectID = "waO-k8-2jw"; */
+"waO-k8-2jw.title" = "Save As User Defaults";
+
+/* Class = "NSTextFieldCell"; title = "Save Delay:"; ObjectID = "wal-or-b94"; */
+"wal-or-b94.title" = "Save Delay:";
+
+/* Class = "NSButtonCell"; title = "Ignore Filename in Headers"; ObjectID = "x2l-kz-lRS"; */
+"x2l-kz-lRS.title" = "Ignore Filename in Headers";
+
+/* Class = "NSMenuItem"; title = "Executive"; ObjectID = "xKe-kp-Aum"; */
+"xKe-kp-Aum.title" = "Executive";
+
+/* Class = "NSMenuItem"; title = "Retry If Missing"; ObjectID = "xOM-PE-OaC"; */
+"xOM-PE-OaC.title" = "Retry If Missing";
+
+/* Class = "NSMenuItem"; title = "US Legal"; ObjectID = "y1U-cS-q2l"; */
+"y1U-cS-q2l.title" = "US Legal";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "yFB-1o-svm"; */
+"yFB-1o-svm.label" = "Options";
+
+/* Class = "NSMenuItem"; title = "iPad Pro (12.9”)"; ObjectID = "yp1-1i-NNt"; */
+"yp1-1i-NNt.title" = "iPad Pro (12.9”)";
+
+/* Class = "NSTabViewItem"; label = "JavaScript"; ObjectID = "yup-IP-G7e"; */
+"yup-IP-G7e.label" = "JavaScript";
+
+/* Class = "NSMenuItem"; title = "Web View"; ObjectID = "z3M-Vx-Ub0"; */
+"z3M-Vx-Ub0.title" = "Web View";
+
+/* Class = "NSTableColumn"; headerCell.title = "Template"; ObjectID = "zij-Le-07G"; */
+"zij-Le-07G.headerCell.title" = "Template";
